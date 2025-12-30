@@ -23,6 +23,7 @@ Currently, I am learning **Python, Node.js, Express, NestJS, and DBMS-II**, whil
 - Node.js & Express
 - NestJS
 - Database Management Systems (DBMS-II)
+- MongoDB
 
 ---
 
