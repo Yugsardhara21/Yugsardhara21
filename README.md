@@ -1,39 +1,51 @@
 <h1 align="center">Hi 👋, I'm Yug</h1>
-<h3 align="center">B.Tech CSE Student | Aspiring Full-Stack Developer</h3>
+<h3 align="center">B.Tech CSE Student | Full-Stack Developer in the Making</h3>
 
 <p align="center">
   🎓 Darshan University, India 🇮🇳 <br/>
-  💻 Frontend • Backend • Databases
+  💡 I build systems, not just screens
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **B.Tech Computer Science Engineering student** at **Darshan University**, passionate about building complete and practical web applications.
+I’m a **B.Tech Computer Science Engineering student** at **Darshan University** who enjoys turning ideas into **well-structured, real-world applications**.
 
-I enjoy working across the **frontend, backend, and database layers**, with a strong interest in understanding how systems work internally. I focus on writing **clean, structured, and maintainable code** rather than just making things work.
+I work across the **frontend, backend, and database layers**, but what excites me most is **how everything connects internally** — logic, data flow, and system design.
 
-Currently, I am learning **Python, Node.js, Express, NestJS, and DBMS-II**, while actively building projects to strengthen my development and problem-solving skills.
+I strongly believe in **Object-Oriented Programming principles** like **abstraction, encapsulation, inheritance, and polymorphism**, and I try to apply them while designing APIs, backend modules, and application structure.
+
+Currently, I’m learning **Python, Node.js, Express, NestJS, MongoDB, and DBMS-II**, while actively building projects that focus on **clean architecture, scalability, and maintainability**.
 
 ---
 
-## 🌱 Currently Learning
-- Python
-- Node.js & Express
-- NestJS
-- Database Management Systems (DBMS-II)
-- MongoDB
+## 🧠 How I Think as a Developer
+
+- 🧩 Break complex problems into reusable components  
+- 🏗️ Design systems using OOP & modular architecture  
+- 🧼 Write clean, readable, and maintainable code  
+- 🔍 Understand *why* something works, not just *how*  
+
+---
+
+## 🌱 Currently Learning & Exploring
+- Python (OOP & backend logic)
+- Node.js & Express (REST APIs)
+- NestJS (enterprise-level architecture)
+- MongoDB & SQL concepts
+- DBMS-II (normalization, indexing, transactions)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Languages & Core Concepts
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![OOP](https://img.shields.io/badge/OOP-Concepts-blue?style=flat)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -53,7 +65,7 @@ Currently, I am learning **Python, Node.js, Express, NestJS, and DBMS-II**, whil
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yugsardhara21&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -66,7 +78,7 @@ Currently, I am learning **Python, Node.js, Express, NestJS, and DBMS-II**, whil
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let’s Connect
 
 <p>
   <a href="https://linkedin.com/in/YugSardhara">
@@ -79,4 +91,4 @@ Currently, I am learning **Python, Node.js, Express, NestJS, and DBMS-II**, whil
 
 ---
 
-⭐ *Always learning, always building.*
+✨ *Learning the fundamentals. Building the future.*
