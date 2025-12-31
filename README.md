@@ -1,87 +1,76 @@
-<div align="center">
+<h1 align="center">👋 Hi! I'm Yug Sardhara 💻</h1>
 
-<!-- 🔥 Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Yug%20Sardhara&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=B.Tech%20CSE%20Student%20%7C%20Future%20Full%20Stack%20Developer&descAlignY=55"/>
+<h3 align="center">B.Tech CSE Student | Darshan University | Exploring the World of Code</h3>
 
-<!-- ⌨️ Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Yug+👋;I+love+building+systems+💻;Frontend+%7C+Backend+%7C+Databases;Learning+every+single+day+🚀" />
-</a>
-
-<!-- 👀 Profile Views -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Yugsardhara21&label=Profile%20Views&color=6C63FF&style=flat-square"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yugsardhara21&label=Profile%20views&color=6C63FF&style=flat" alt="Yug Sardhara" />
 </p>
-
-<!-- 🌐 Socials -->
-<p>
-  <a href="https://linkedin.com/in/YugSardhara">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:yugpatel14882@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🔥 About Me
+- 🎓 **B.Tech Computer Science Engineering student**
+- 🏫 **Darshan University**
+- 💻 Interested in **Frontend, Backend & Databases**
+- 🌱 Currently learning **Python, Node.js, Express, NestJS, DBMS-II**
+- 🧠 Strong focus on **OOP, Clean Code & Problem Solving**
+- 🧩 Love breaking problems into logical, reusable components
 
-```python
-class Yug:
-    def __init__(self):
-        self.role = "B.Tech CSE Student"
-        self.university = "Darshan University"
-        self.location = "India 🇮🇳"
-        self.interests = ["Frontend", "Backend", "Databases"]
-        self.mindset = "Clean Code | OOP | Problem Solving"
-I’m a Computer Science Engineering student who enjoys building complete, real-world web applications.
+---
 
-I don’t just focus on frameworks — I care deeply about Object-Oriented Programming, clean architecture, and understanding how systems work internally.
+<table align="center">
+<tr>
+<td>
 
-Currently learning and practicing Python, Node.js, Express, NestJS, MongoDB, and DBMS-II, while continuously improving my logic, structure, and problem-solving skills.
+<h2 align="center">🛠️ Technologies & Tools</h2>
 
-🧠 How I Think (Developer Mindset)
-🧩 Break problems into reusable objects
+<h4 align="center">💻 Programming Languages</h4>
+<p align="center">────────────</p>
+<h3 align="center">
+🟦 C &nbsp;•&nbsp; ☕ Java &nbsp;•&nbsp; 🐍 Python &nbsp;•&nbsp; 🟨 JavaScript &nbsp;•&nbsp; 🧵 HTML &nbsp;•&nbsp; 🎨 CSS
+</h3>
 
-🏗️ Apply OOP principles (Abstraction, Encapsulation, Inheritance, Polymorphism)
+<h4 align="center">⚙️ Frameworks & Libraries</h4>
+<p align="center">────────────</p>
+<h3 align="center">
+🟩 Node.js &nbsp;•&nbsp; 🚀 Express.js &nbsp;•&nbsp; 🛡️ NestJS &nbsp;•&nbsp; ⚛️ React &nbsp;•&nbsp; ▲ Next.js
+</h3>
 
-🔁 Write modular & scalable code
+<h4 align="center">🗄️ Databases</h4>
+<p align="center">────────────</p>
+<h3 align="center">
+🍃 MongoDB &nbsp;•&nbsp; 🐬 MySQL
+</h3>
 
-📚 Learn fundamentals before advanced tools
+<h4 align="center">🧠 Core CS Subjects</h4>
+<p align="center">────────────</p>
+<h3 align="center">
+📚 DSA &nbsp;•&nbsp; 🧩 OOP &nbsp;•&nbsp; 🛢️ DBMS
+</h3>
 
-🌱 Currently Learning
-Python (OOP & backend logic)
+<h4 align="center">🔧 Tools</h4>
+<p align="center">────────────</p>
+<h3 align="center">
+🧰 Git &nbsp;•&nbsp; 🐙 GitHub &nbsp;•&nbsp; 📝 VS Code &nbsp;•&nbsp; 🌐 REST APIs
+</h3>
 
-Node.js & Express (REST APIs)
+<h4 align="center">🧩 Additional Skills</h4>
+<p align="center">────────────</p>
+<h3 align="center">
+🧠 Logical Thinking &nbsp;•&nbsp; 🔍 Debugging &nbsp;•&nbsp; 🚀 Clean Code &nbsp;•&nbsp; 📦 API Design &nbsp;•&nbsp; 🛠️ Problem Solving
+</h3>
 
-NestJS (enterprise architecture)
+</td>
+</tr>
+</table>
 
-MongoDB & DBMS-II concepts
+---
 
-🛠️ Tech Stack
+## 📈 GitHub Stats & Activity
+<br clear="both">
+
 <div align="center">
-💻 Languages & Core
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css&theme=dark" />
-⚙️ Backend & Frameworks
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,nextjs&theme=dark" />
-🗄️ Databases & Tools
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode&theme=dark" /> </div>
-📊 GitHub Analytics
-<div align="center"> <img width="390" src="https://github-readme-stats.vercel.app/api?username=Yugsardhara21&show_icons=true&theme=tokyonight&hide_border=true"/> <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Yugsardhara21&theme=tokyonight&hide_border=true"/> <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yugsardhara21&layout=compact&theme=tokyonight&hide_border=true"/> </div>
-📈 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yugsardhara21&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true"/> </div>
-🤝 Let’s Connect
-<div align="center"> <a href="https://linkedin.com/in/YugSardhara"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:yugpatel14882@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=420&lines=Clean+Code+%E2%9D%A4%EF%B8%8F+Strong+Logic;Learning+Today%2C+Building+Tomorrow"/> </div>
-<!-- 🐍 Snake Animation --> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"> </picture> </div> <!-- 🌊 Footer --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/> <div align="center">
-⭐ Thanks for visiting!
-"Code is not magic — it’s logic with creativity."
-
-</div> ```
+  <img src="https://streak-stats.demolab.com?user=Yugsardhara21&theme=tokyonight&border_radius=5" height="150" alt="streak graph" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yugsardhara21&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="150" alt="stats graph" />
+</div>
