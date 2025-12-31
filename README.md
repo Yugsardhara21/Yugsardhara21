@@ -1,94 +1,87 @@
-<h1 align="center">Hi 👋, I'm Yug</h1>
-<h3 align="center">B.Tech CSE Student | Full-Stack Developer in the Making</h3>
+<div align="center">
 
-<p align="center">
-  🎓 Darshan University, India 🇮🇳 <br/>
-  💡 I build systems, not just screens
+<!-- 🔥 Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Yug%20Sardhara&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=B.Tech%20CSE%20Student%20%7C%20Future%20Full%20Stack%20Developer&descAlignY=55"/>
+
+<!-- ⌨️ Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Yug+👋;I+love+building+systems+💻;Frontend+%7C+Backend+%7C+Databases;Learning+every+single+day+🚀" />
+</a>
+
+<!-- 👀 Profile Views -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Yugsardhara21&label=Profile%20Views&color=6C63FF&style=flat-square"/>
 </p>
+
+<!-- 🌐 Socials -->
+<p>
+  <a href="https://linkedin.com/in/YugSardhara">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yugpatel14882@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a **B.Tech Computer Science Engineering student** at **Darshan University** who enjoys turning ideas into **well-structured, real-world applications**.
+```python
+class Yug:
+    def __init__(self):
+        self.role = "B.Tech CSE Student"
+        self.university = "Darshan University"
+        self.location = "India 🇮🇳"
+        self.interests = ["Frontend", "Backend", "Databases"]
+        self.mindset = "Clean Code | OOP | Problem Solving"
+I’m a Computer Science Engineering student who enjoys building complete, real-world web applications.
 
-I work across the **frontend, backend, and database layers**, but what excites me most is **how everything connects internally** — logic, data flow, and system design.
+I don’t just focus on frameworks — I care deeply about Object-Oriented Programming, clean architecture, and understanding how systems work internally.
 
-I strongly believe in **Object-Oriented Programming principles** like **abstraction, encapsulation, inheritance, and polymorphism**, and I try to apply them while designing APIs, backend modules, and application structure.
+Currently learning and practicing Python, Node.js, Express, NestJS, MongoDB, and DBMS-II, while continuously improving my logic, structure, and problem-solving skills.
 
-Currently, I’m learning **Python, Node.js, Express, NestJS, MongoDB, and DBMS-II**, while actively building projects that focus on **clean architecture, scalability, and maintainability**.
+🧠 How I Think (Developer Mindset)
+🧩 Break problems into reusable objects
 
----
+🏗️ Apply OOP principles (Abstraction, Encapsulation, Inheritance, Polymorphism)
 
-## 🧠 How I Think as a Developer
+🔁 Write modular & scalable code
 
-- 🧩 Break complex problems into reusable components  
-- 🏗️ Design systems using OOP & modular architecture  
-- 🧼 Write clean, readable, and maintainable code  
-- 🔍 Understand *why* something works, not just *how*  
+📚 Learn fundamentals before advanced tools
 
----
+🌱 Currently Learning
+Python (OOP & backend logic)
 
-## 🌱 Currently Learning & Exploring
-- Python (OOP & backend logic)
-- Node.js & Express (REST APIs)
-- NestJS (enterprise-level architecture)
-- MongoDB & SQL concepts
-- DBMS-II (normalization, indexing, transactions)
+Node.js & Express (REST APIs)
 
----
+NestJS (enterprise architecture)
 
-## 🛠️ Tech Stack
+MongoDB & DBMS-II concepts
 
-### Languages & Core Concepts
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![OOP](https://img.shields.io/badge/OOP-Concepts-blue?style=flat)
+🛠️ Tech Stack
+<div align="center">
+💻 Languages & Core
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css&theme=dark" />
+⚙️ Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,nextjs&theme=dark" />
+🗄️ Databases & Tools
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode&theme=dark" /> </div>
+📊 GitHub Analytics
+<div align="center"> <img width="390" src="https://github-readme-stats.vercel.app/api?username=Yugsardhara21&show_icons=true&theme=tokyonight&hide_border=true"/> <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Yugsardhara21&theme=tokyonight&hide_border=true"/> <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yugsardhara21&layout=compact&theme=tokyonight&hide_border=true"/> </div>
+📈 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yugsardhara21&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true"/> </div>
+🤝 Let’s Connect
+<div align="center"> <a href="https://linkedin.com/in/YugSardhara"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:yugpatel14882@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<br/><br/>
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat&logo=bootstrap&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=420&lines=Clean+Code+%E2%9D%A4%EF%B8%8F+Strong+Logic;Learning+Today%2C+Building+Tomorrow"/> </div>
+<!-- 🐍 Snake Animation --> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"> </picture> </div> <!-- 🌊 Footer --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/> <div align="center">
+⭐ Thanks for visiting!
+"Code is not magic — it’s logic with creativity."
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yugsardhara21&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yugsardhara21&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Yugsardhara21&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Let’s Connect
-
-<p>
-  <a href="https://linkedin.com/in/YugSardhara">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:yugpatel14882@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-✨ *Learning the fundamentals. Building the future.*
+</div> ```
