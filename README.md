@@ -39,7 +39,7 @@
 <h4 align="center">🗄️ Databases</h4>
 <p align="center">────────────</p>
 <h3 align="center">
-🍃 MongoDB &nbsp;•&nbsp; 🐬 MySQL
+🪣 Microsoft SQL Server &nbsp;•&nbsp; 🍃 MongoDB
 </h3>
 
 <h4 align="center">🧠 Core CS Subjects</h4>
@@ -66,11 +66,4 @@
 
 ---
 
-## 📈 GitHub Stats & Activity
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Yugsardhara21&theme=tokyonight&border_radius=5" height="150" alt="streak graph" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Yugsardhara21&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="150" alt="stats graph" />
-</div>
+⭐ *Always learning, always building with logic and clarity.*
