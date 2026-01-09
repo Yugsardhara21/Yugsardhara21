@@ -1,69 +1,90 @@
 <h1 align="center">👋 Hi! I'm Yug Sardhara 💻</h1>
 
-<h3 align="center">B.Tech CSE Student | Darshan University | Exploring the World of Code</h3>
+🎓 **Computer Science Engineering Student**  
+🌐 **Full Stack Development & Problem Solving Enthusiast**
 
+---
+
+## 🧑‍💻 About Me
+
+- 📚 Currently studying **B.Tech in Computer Science Engineering**
+- 💻 Interested in **DSA, Databases & Full Stack Development**
+- 🎨 Enjoy building **clean, responsive & user-friendly applications**
+- 🚀 Constantly learning and improving my coding skills
+
+---
+
+## 🛠️ Technologies & Tools
+
+---
+
+### 💻 Programming Languages
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yugsardhara21&label=Profile%20views&color=6C63FF&style=flat" alt="Yug Sardhara" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css&theme=dark" />
 </p>
 
 ---
 
-## 🔥 About Me
-- 🎓 **B.Tech Computer Science Engineering student**
-- 🏫 **Darshan University**
-- 💻 Interested in **Frontend, Backend & Databases**
-- 🌱 Currently learning **Python, Node.js, Express, NestJS, DBMS-II**
-- 🧠 Strong focus on **OOP, Clean Code & Problem Solving**
-- 🧩 Love breaking problems into logical, reusable components
+### ⚙️ Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs&theme=dark" />
+</p>
 
 ---
 
-<table align="center">
-<tr>
-<td>
-
-<h2 align="center">🛠️ Technologies & Tools</h2>
-
-<h4 align="center">💻 Programming Languages</h4>
-<p align="center">────────────</p>
-<h3 align="center">
-🟦 C &nbsp;•&nbsp; ☕ Java &nbsp;•&nbsp; 🐍 Python &nbsp;•&nbsp; 🟨 JavaScript &nbsp;•&nbsp; 🧵 HTML &nbsp;•&nbsp; 🎨 CSS
-</h3>
-
-<h4 align="center">⚙️ Frameworks & Libraries</h4>
-<p align="center">────────────</p>
-<h3 align="center">
-🟩 Node.js &nbsp;•&nbsp; 🚀 Express.js &nbsp;•&nbsp; 🛡️ NestJS &nbsp;•&nbsp; ⚛️ React &nbsp;•&nbsp; ▲ Next.js
-</h3>
-
-<h4 align="center">🗄️ Databases</h4>
-<p align="center">────────────</p>
-<h3 align="center">
-🪣 Microsoft SQL Server &nbsp;•&nbsp; 🍃 MongoDB
-</h3>
-
-<h4 align="center">🧠 Core CS Subjects</h4>
-<p align="center">────────────</p>
-<h3 align="center">
-📚 DSA &nbsp;•&nbsp; 🧩 OOP &nbsp;•&nbsp; 🛢️ DBMS
-</h3>
-
-<h4 align="center">🔧 Tools</h4>
-<p align="center">────────────</p>
-<h3 align="center">
-🧰 Git &nbsp;•&nbsp; 🐙 GitHub &nbsp;•&nbsp; 📝 VS Code &nbsp;•&nbsp; 🌐 REST APIs
-</h3>
-
-<h4 align="center">🧩 Additional Skills</h4>
-<p align="center">────────────</p>
-<h3 align="center">
-🧠 Logical Thinking &nbsp;•&nbsp; 🔍 Debugging &nbsp;•&nbsp; 🚀 Clean Code &nbsp;•&nbsp; 📦 API Design &nbsp;•&nbsp; 🛠️ Problem Solving
-</h3>
-
-</td>
-</tr>
-</table>
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
 
 ---
 
-⭐ *Always learning, always building with logic and clarity.*
+### 🧠 Core CS Subjects
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-2196F3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DBMS-9C27B0?style=for-the-badge" />
+</p>
+
+---
+
+### 🔧 Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+</p>
+
+---
+
+### 🧩 Additional Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/Logical%20Thinking-3F51B5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Debugging-795548?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean%20Code-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Design-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-E91E63?style=for-the-badge" />
+</p>
+
+
+## 📌 Areas of Interest
+- Data Structures & Algorithms  
+- Full Stack Web Development  
+- Backend APIs & Databases  
+- Clean Code & Problem Solving  
+
+---
+
+## 📫 Connect With Me
+<p>
+  <a href="https://linkedin.com/in/YugSardhara">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yugpatel14882@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+- GitHub: **https://github.com/Yugsardhara21**
+</p>
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*
