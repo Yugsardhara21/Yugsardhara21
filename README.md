@@ -74,15 +74,16 @@
 
 ---
 
-## 📫 Connect With Me
-<p>
-  <a href="https://linkedin.com/in/YugSardhara">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yug-sardhara-8853a5325/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:yugpatel14882@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
-- GitHub: **https://github.com/Yugsardhara21**
 </p>
 
 ---
